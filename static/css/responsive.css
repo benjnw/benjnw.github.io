@@ -1,0 +1,17 @@
+@media screen and (max-width: 768px) {
+
+    .more-search-options-trigger {
+        display: none;
+    }
+
+    #shedUserActions {
+    	display: none;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    .navbar-wp {
+    	margin-top: 0;
+    }
+}
